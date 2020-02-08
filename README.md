@@ -1,3 +1,5 @@
+WordPress 5.3.2 & Woocommerce 3.9
+
 To use this feature, please do following these steps:
 1. Place this folder in your theme directory.
 2. Add this line `include TEMPLATEPATH . '/phuc-inc/include.php';` into `functions.php`
